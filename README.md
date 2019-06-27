@@ -1,24 +1,6 @@
-# README
+# check-api
+This Project is JSON API written in Rails. The source is the CLI tool in this repository.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## * Require Environment
+- Ruby 2.6.3
+- Rails 5.2.3
